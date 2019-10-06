@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "gunho.cho@idquantique.com",
+    "classifications": [ "Console" ],
+    "identity": "IDQ.QSafe.IDQ4P.Console.CSharp",
+    "name": "IDQ4P Console App over ZMQ and MsgPack",
+    "shortName": "idq4p"
+}
