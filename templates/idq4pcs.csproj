@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="MsgPack.Cli" Version="1.0.1" />
-    <PackageReference Include="NetMQ" Version="4.0.0.207" />
+    <PackageReference Include="ZeroMQ" Version="4.1.0.31" />
   </ItemGroup>
 
 </Project>
